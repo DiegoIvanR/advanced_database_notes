@@ -9,3 +9,7 @@
 ## Excalidraw
 - https://excalidraw.com/
 - Used for: System diagrams
+
+## SQLBolt
+- https://sqlbolt.com/lesson/select_queries_with_joins
+- learn and train sql queries
