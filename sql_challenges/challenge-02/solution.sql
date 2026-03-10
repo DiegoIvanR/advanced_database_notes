@@ -1,3 +1,4 @@
+-- Review update
 -- 6
 SELECT * FROM movies LEFT JOIN Boxoffice ON Movies.Id = Boxoffice.Movie_id;
 SELECT * FROM movies LEFT JOIN Boxoffice ON movies.Id = Boxoffice.Movie_id Where Boxoffice.International_sales > Boxoffice.Domestic_sales;
