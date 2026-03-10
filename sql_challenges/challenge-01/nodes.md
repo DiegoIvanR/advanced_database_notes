@@ -1,3 +1,4 @@
+-- Review update
 SQLBolt Study Notes: Lessons 1–5
 
 This guide covers the fundamental SQL keywords and syntax used for retrieving, filtering, and organizing data from a single database table.
