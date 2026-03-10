@@ -1,3 +1,4 @@
+-- Review update
 --10 pt1
 SELECT max(years_employed) FROM employees;
 SELECT avg(years_employed), * FROM employees GROUP BY Role;
