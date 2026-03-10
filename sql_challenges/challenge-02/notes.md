@@ -1,3 +1,4 @@
+-- Review update
 SQLBolt Study Notes: Lessons 6–7
 
 This section introduces how to perform calculations on data and how to combine data from multiple tables using JOINs.
