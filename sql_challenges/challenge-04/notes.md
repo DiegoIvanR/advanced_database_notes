@@ -1,3 +1,4 @@
+-- Review update
 A window function performs a calculation across a set of rows related to the current row — without collapsing rows (unlike GROUP BY).
 
 Basic Syntax
